@@ -1,6 +1,6 @@
 # Laptop Price Predection
 
-#### Goal
+#### Goal:
 The main goal of this project is to predict the prices of laptop 
 
 #### Design:
