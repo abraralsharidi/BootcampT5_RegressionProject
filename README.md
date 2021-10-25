@@ -1,5 +1,7 @@
 # Laptop Price Predection
-### The main goal of this project is to predict the prices of laptop 
+
+#### Goal
+The main goal of this project is to predict the prices of laptop 
 
 #### Design:
 The data provided by Jarir bookstore, it has the main information about laptop device and we web scraped the website and turn it into a data frame with the information that will help us achieve the goal then we EDA to do statistical analysis on the data then visually present them and do the regression model.
